@@ -1,0 +1,46 @@
+-- import: fastn
+
+-- fastn.package: saurabh-lohiya.github.io/portfolio
+favicon: /-/saurabh-lohiya.github.io/portfolio/favicon.ico
+
+-- fastn.dependency: fastn-community.github.io/site-doc as site-doc
+-- fastn.dependency: fastn-community.github.io/code-block as cb
+-- fastn.dependency: fastn-community.github.io/doc-site as doc-site
+-- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/dark-flame-cs
+
+-- fastn.auto-import: saurabh-lohiya.github.io/portfolio/FASTN/ds
+-- fastn.auto-import: saurabh-lohiya.github.io/portfolio/common
+-- fastn.auto-import: saurabh-lohiya.github.io/portfolio/assets
+-- fastn.auto-import: site-doc
+-- fastn.auto-import: doc-site
+-- fastn.auto-import: cb
+
+-- fastn.sitemap:
+
+# Home: index.html
+icon: assets/home.svg
+
+# About Me: /#about-me
+icon: assets/info.svg
+
+
+# Portfolio: /#latest-works
+icon: assets/portfolio.png
+
+# Blog: /components/blogs/
+icon: assets/blog.png
+
+# Contact: /#contact
+icon: assets/contact.png
+
+# Docs: components/
+
+- Hero: /components/hero/
+- Skills: /components/skills/
+- Latest Works: /components/latest-works/
+- Services: /components/services/
+- Contact Form: /components/contact-form/
+- Contact Info: /components/contact-info/
+- Blogs: /components/blogs/
