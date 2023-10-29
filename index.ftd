@@ -8,18 +8,18 @@
 
 -- hero: HaThMo
 tag: Hello there...
-designation: We are Passionate Developers!
+designation: Your Voice, Your Health, Pioneering Lung Disease Detection 
 avatar: $assets.files.assets.me1.png
-cta-primary: Our Work
-cta-primary-link: index.html
-cta-secondary: Github of Team
+cta-primary: Our Work - Upload your voice 
+cta-primary-link: https://google.com
+cta-secondary: Team HaThMo
 cta-secondary-link: https://linktr.ee/hathmo
 
-The namics of how users interact with interactive elements within 
-a user interface flow chart based on container proportion.
+
+Our project aims to detect lung disease using voice analysis as a non-invasive and early diagnostic tool, revolutionizing healthcare accessibility and improving patient outcomes.
 
 -- about-me-container: ABOUT US
-tag: A LEAD UX & UI 
+tag: Building Future Healthcare system
 id: about-me
  
 -- about-me-portrait:
@@ -27,59 +27,60 @@ socials: $common.socials
 src: $assets.files.assets.me1.png
 
 -- about-me-info: We are HaThMo
-tag: A Lead UX & UI 
+tag: Harnessing the power of voice and technology to detect lung disease.
 info-list: $common.info-list
-cta-text: View our LinkedIn
+cta-text: View our Youtube Video
 cta-link: https://linktr.ee/hathmo
 
-We design and develop services for customers of all sizes, 
-specializing in creating stylish, modern websites, web services 
-and online stores. OUR passion is to design digital user experiences 
-through the bold interface and meaningful interactions. 
+
+Our project's core objective is to revolutionize lung disease diagnosis. By leveraging state-of-the-art technology and machine learning, we have developed a non-invasive and cost-effective solution that analyzes voice data to detect potential lung diseases. Our commitment to improving healthcare outcomes underscores our dedication to providing accessible and early diagnostic tools for better patient care.
 
 
 -- end: about-me-container
 
--- skills: OUR SKILLS
-tag: A LEAD UX & UI DESIGNER 
+-- skills: OUR TEAM SKILLS
+tag: Brief overview 
 languages: $common.languages
 achievements: $common.achievements
 
--- services: OUR SERVICES
+-- services: FEATURES
 overhauls: $common.overhauls
 id: services
 
-A LEAD UX & UI DESIGNER 
+A New Echo in Healthcare, Voice-Driven Lung Disease Detection.
 
 
 -- latest-works: LATEST WORKS
 projects: $common.projects
 id: latest-works
 
-A LEAD UX & UI DESIGNER 
+Lungs in Harmony, The Future of Voice-Enabled Diagnosis.
 
 -- testimonials: MORE INFO
 testimonials: $common.testimonials
 
-A LEAD UX & UI DESIGNER 
+Listen to Your Lungs, Early Detection, Lifelong Health.
 
 -- blogs: LATEST BLOGS
 articles: $common.articles
 id: blogs
 
-A LEAD UX & UI DESIGNER 
+Lung Health Whisperer, Your Voice, Your Diagnosis
 
 
 -- contact-form: GET IN TOUCH
 sub-title: SAY SOMETHING
 cta-text: SEND MESSAGE
-link: index.html
+link: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcSGMGMpmplZVmmspzKcRdPlRbFqkVjWlSnfTlpMpMWsCLGzPmRSsGFnkGGbjdvlsnBcskLzp
 id: contact
 
-A LEAD UX & UI DESIGNER 
+Team HaThMo
 
 -- contact-info: Our Email
 info: samaydumasia@gmail.com
+
+-- contact-info: Our Team
+info: https://linktr.ee/hathmo
 
 
 -- end: contact-form

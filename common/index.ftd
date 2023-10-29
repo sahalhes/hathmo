@@ -129,17 +129,17 @@ $processor$: pr.sitemap
 
 -- achievement list achievements:
 
--- achievement: 80 Albums Listened
-icon: $assets.files.assets.album.png
+-- achievement: Innovative Voice-Based Diagnosis
+icon: $assets.files.assets.science.svg
 
--- achievement: 80 Albums Listened
-icon: $assets.files.assets.album.png
+-- achievement: Sound Detects Lung Diseases
+icon: $assets.files.assets.lung.svg
 
--- achievement: 80 Albums Listened
-icon: $assets.files.assets.album.png
+-- achievement: Voice-Powered Lung Disease Detection
+icon: $assets.files.assets.sound.svg
 
--- achievement: 80 Albums Listened
-icon: $assets.files.assets.album.png
+-- achievement: Voice Analyzes Lung Health
+icon: $assets.files.assets.result.svg
 
 -- end: achievements
 
@@ -204,21 +204,13 @@ icon: $assets.files.assets.contact.png
 
 -- social list socials:
 
--- social:
-icon: $assets.files.assets.facebook.svg
-link: /
 
 -- social:
-icon: $assets.files.assets.twitter.svg
-link: /
-
+icon: $assets.files.assets.lin.svg
+link: https://linktr.ee/hathmo
 -- social:
-icon: $assets.files.assets.instagram.svg
-link: /
-
--- social:
-icon: $assets.files.assets.li.svg
-link: /
+icon: $assets.files.assets.gi.svg
+link: https://linktr.ee/hathmo
 
 -- end: socials
 
@@ -243,41 +235,41 @@ tag: samaydumasia@gmail.com
 
 -- overhaul list overhauls:
 
--- overhaul: Unique Design
-icon: $assets.files.assets.monitor.png
+-- overhaul: Trustable Consultations
+icon: $assets.files.assets.lap.svg
 
-I design and develop services for customers of all sizes, specializing 
-in creating stylish, modern websites.
+Get trustworthy and accurate medical consultations online at no cost, ensuring you receive expert advice from reliable professionals you can trust.
 
--- overhaul: Unique Design
-icon: $assets.files.assets.tags.png
+-- overhaul: Cost effective
+icon: $assets.files.assets.price.svg
 
-I design and develop services for customers of all sizes, specializing 
-in creating stylish, modern websites.
+Experience cost-effective, doctor-recommended healthcare solutions online, providing accurate diagnoses that you can trust, all without breaking the bank.
 
--- overhaul: Unique Design
-icon: $assets.files.assets.messages.svg
+-- overhaul: Trust
+icon: $assets.files.assets.chat.svg
 
-I design and develop services for customers of all sizes, specializing 
-in creating stylish, modern websites.
+Access a trustworthy online platform that offers free, cost-effective consultations with doctors, ensuring accurate medical advice from the comfort of your home.
 
--- overhaul: Unique Design
-icon: $assets.files.assets.tablet.png
+-- overhaul: Connecting to healthcare
+icon: $assets.files.assets.health.svg
 
-I design and develop services for customers of all sizes, specializing 
-in creating stylish, modern websites.
+Your trusted online source for accurate medical guidance, connecting you with experienced doctors for free, making healthcare cost-effective and reliable.
 
--- overhaul: Unique Design
-icon: $assets.files.assets.bullseye.png
+-- overhaul: Accuracy
+icon: $assets.files.assets.target.svg
 
-I design and develop services for customers of all sizes, specializing 
-in creating stylish, modern websites.
+Enjoy the benefits of free, high-accuracy medical advice from trusted professionals, making healthcare accessible to all without compromising on precision.
 
--- overhaul: Unique Design
-icon: $assets.files.assets.settings.svg
+-- overhaul: Telehealth Precision
+icon: $assets.files.assets.precise.svg
 
-I design and develop services for customers of all sizes, specializing 
-in creating stylish, modern websites.
+Embrace telehealth for free, accurate, and cost-effective consultations with trustworthy doctors, ensuring precision in your healthcare decisions, all from the convenience of your home.
+
+
+
+
+
+
 
 -- end: overhauls
 
@@ -287,77 +279,41 @@ in creating stylish, modern websites.
 
 -- project list projects:
 
--- project: Our Photography
-sub-title: Design
-src: $assets.files.assets.leaves.jpeg
 
--- project: Our Photography
-sub-title: Design
+-- project: Lung disease detector using AI
+sub-title: Future Healthcare system
+src: $assets.files.assets.leaves.jpg
+
+-- project: Your Voice , Your Diagnosis
+sub-title: Future Healthcare system
 src: $assets.files.assets.coffee.jpeg
 
--- project: Our Photography
-sub-title: Design
-src: $assets.files.assets.bananas.jpeg
-
--- project: Our Photography
-sub-title: Design
-src: $assets.files.assets.bb.jpeg
-
--- project: Our Photography
-sub-title: Design
-src: $assets.files.assets.pineapple.jpeg
-
--- project: Our Photography
-sub-title: Design
-src: $assets.files.assets.wooden-hand.jpeg
 
 -- end: projects
 
 
-
-
 -- article list articles:
 
--- article: Make your Marketing website
-publishing-date: 02 Mar 2023
-tag: Design
-src: $assets.files.assets.blog-1.jpg
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
--- article: Make your Marketing website
-publishing-date: 02 Mar 2023
-tag: Design
-src: $assets.files.assets.blog-2.jpg
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-
--- article: Make your Marketing website
-publishing-date: 02 Mar 2023
+-- article: Versatile Applications: Enhancing Healthcare Across Various Settings
+publishing-date: 29 Oct 2023
 tag: Design
 src: $assets.files.assets.blog-3.jpg
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+Our innovative lung disease detection system finds applications in a variety of healthcare settings, including hospitals, clinics, telemedicine platforms, and even at-home monitoring solutions, making it versatile and accessible for patients and healthcare professionals alike.
 
 -- end: articles
 
 
 
 
--- testimonial list testimonials:
+-- testimonial list testimonials: 
 
--- testimonial: View our work
-designation: --
-src: $assets.files.assets.testimonial-1.jpeg
+-- testimonial: Empowering Lung Disease Detection
+designation: Do not hesitate to try out !                        
+src: $assets.files.assets.astro.svg
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint 
 
--- testimonial: View our work
-designation: --
-src: $assets.files.assets.testimonial-2.jpeg
+In the development of our innovative lung disease detection system, we harnessed the power of FastAPI and React for our frontend, ensuring a responsive and user-friendly interface. Voice data was securely stored and managed in Firebase, guaranteeing data integrity and accessibility. The heart of our system lies in the Python-based backend, which processes and analyzes voice data with high accuracy, enabling early diagnosis and enhancing the overall effectiveness of our healthcare solution.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint
 
 -- end: testimonials
