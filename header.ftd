@@ -1,8 +1,6 @@
 -- import: fastn/processors as pr
 
 
-
-
 -- component header:
 optional caption site-name:
 optional ftd.image-src site-logo:
