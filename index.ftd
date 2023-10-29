@@ -113,7 +113,7 @@ height: fill-container
 height: fill-container
 width: fill-container
 
--- h.header: Tony
+-- h.header: HaThMo
 site-url: /
 menu-icon: $assets.files.assets.hamburger-menu.svg
 sections: $common.sitemap.sections
@@ -133,7 +133,7 @@ children: $page.child
 -- ftd.column:
 width: fill-container
 
--- h.header: Tony
+-- h.header: HaThMo
 site-url: /
 menu-icon: $assets.files.assets.hamburger-menu.svg
 sections: $common.sitemap.sections
