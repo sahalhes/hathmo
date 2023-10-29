@@ -26,6 +26,7 @@ id: about-me
 socials: $common.socials
 src: $assets.files.assets.me1.png
 
+
 -- about-me-info: We are HaThMo
 tag: Harnessing the power of voice and technology to detect lung disease.
 info-list: $common.info-list
@@ -515,7 +516,7 @@ align-self: center
 -- component contact-info:
 caption title:
 string info:
-ftd.image-src icon: $assets.files.assets.location.svg
+ftd.image-src icon: $assets.files.assets.team.svg
 
 -- ftd.row:
 spacing.fixed.px: 16
