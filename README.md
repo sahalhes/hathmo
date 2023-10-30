@@ -1,42 +1,12 @@
 # Overview
+Inspiration The inspiration behind "The HATHMO of Health" project comes from the ever-evolving intersection of technology and healthcare also did you know the team name is made by using first 2 letters of the organizing HAck THe MOuntain - ["HATHMO"] . We were motivated by the potential for audio analysis to play a pivotal role in early disease detection and improve patient outcomes. By harnessing the power of sound, we sought to create a unique solution to address the global health concern of lung diseases.
 
-[doc-site](https://fastn-community.github.io/doc-site/) will help you create
-a beautiful documentation site in no time.
+What it does The HATHMO of Health is a groundbreaking website that utilizes advanced audio analysis to detect lung diseases. Users can upload audio recordings of their breathing patterns to the platform. The system, powered by state-of-the-art algorithms and machine learning, analyzes these audio recordings to identify potential lung diseases. The website generates personalized reports, enabling users to take control of their health and seek appropriate medical attention if necessary.
 
-It provides out-of-the-box documentation features that can be used to create any
-kind of site(personal website, blog, etc).
+# Challenges
+Challenges we ran into Throughout the development journey, we encountered various challenges. Building a reliable audio analysis system required a deep understanding of signal processing and machine learning techniques. Ensuring the accuracy and reliability of disease detection was a significant challenge. Additionally, integrating this technology into a user-friendly website presented its own set of technical and design challenges.
 
-# Preview
+# Learning
+What we learned The journey of creating "The HATHMO of Health" has been a learning experience. We've learned that sound, often associated with music and entertainment, has untapped potential in healthcare. By focusing on audio analysis, we've realized that we can detect subtle abnormalities and provide early interventions. We've also learned the importance of research and collaboration in advancing the field of audio-based healthcare.
 
-![doc-site](.github/assets/doc-site-example-dark.jpg)
-
-## Get Rolling
-
-[Click here](https://fastn-community.github.io/doc-site/) to learn how to use this template.
-
-# [Dive into the Docs](https://fastn-community.github.io/doc-site/)
-
-# See it in Action!
-
-Explore websites and projects that have utilized this component/template 
-**[here](https://fastn-community.github.io/doc-site/#dart-used-by)** for
-inspiration.
-
-## fastn and Curious?
-
-Discover more of fastn here.
-
-- [Expander Crash Course](https://fastn.com/expander/)
-- [Video Tutorials](https://fastn.com/expander/hello-world/-/build/)
-- [Explore more Templates/ Components/ Package](https://fastn.com/featured/)
-
-## Become a fastn Contributor
-
-1.  Finish the [Expander Crash Course](https://fastn.com/expander/)
-2.  Share your progress and ideas on [Discord](https://discord.gg/bucrdvptYd).
-3.  Let our team guide you on your contributor journey.
-
-## Become a fastn-trailblazer
-
-- [Join our Discord Server](https://discord.gg/bucrdvptYd) to connect with other fastn enthusiasts and stay up to date with the latest developments.
-- [Star us on GitHub](https://github.com/fastn-stack/fastn/)
+Please support our project by voting [here](https://devpost.com/software/the-hathmo-of-health)
